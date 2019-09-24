@@ -1,0 +1,2 @@
+include ':lib', ':example'
+rootProject.name='HtmlLayout'
